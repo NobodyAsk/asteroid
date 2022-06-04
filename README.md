@@ -1,2 +1,2 @@
 # asteroid
-Simple asteroid game
+Simple asteroid game made with turtle lib
